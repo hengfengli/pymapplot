@@ -1,3 +1,5 @@
 .DS_Store
 *.pyc
 test_data/*
+*.png
+*.egg-info
