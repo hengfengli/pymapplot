@@ -1,4 +1,0 @@
-
-MY_DPI = 96
-PIC_WIDTH = 1280
-
