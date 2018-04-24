@@ -5,3 +5,4 @@ test_data/*
 *.egg-info
 .eggs/*
 backup/*
+ignored/*
