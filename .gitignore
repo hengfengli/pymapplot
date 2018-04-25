@@ -4,5 +4,11 @@ test_data/*
 *.png
 *.egg-info
 .eggs/*
-backup/*
-ignored/*
+test1/*
+test2/*
+test3/*
+test4/*
+test5/*
+test6/*
+test7/*
+test8/*
