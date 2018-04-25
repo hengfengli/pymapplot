@@ -4,5 +4,3 @@ test_data/*
 *.png
 *.egg-info
 .eggs/*
-backup/*
-ignored/*
